@@ -1,0 +1,16 @@
+Bibliotèque est une application Vixel.
+Version 1, mise à jour le 27/05/22.
+Certaines fonctionnalités utilisent l'extention '.vix' de Vixel.
+
+Dernières fonctionnalités :
+
+    - Création de l'application.
+    - Structuration des fonctionnalités.
+    - Création des formulaires de connection.
+    - Personnalisation de l'application.
+    - Mise en place du serveur de communication.
+    - Ajout de l'updater.
+    - Ajout des descriptions.
+
+
+Par Mathieu_lecool (https://github.com/Mathieu-lecool)
